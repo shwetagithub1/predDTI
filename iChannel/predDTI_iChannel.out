@@ -1,0 +1,36 @@
+Query:
+hsa:779 K04857 voltage-dependent calcium channel L type alpha-1S | (RefSeq) CACNA1S, CACNL1A3, CCHL1A3, Cav1.1, HOKPP, HOKPP1, MHS5, TTPP1, hypoPP; calcium voltage-gated channel subunit alpha1 S (A)
+Interacts (potential) with the following drugs:
+D00252 [predicted 4 times out of 5]
+D00294 [predicted 4 times out of 5]
+D00303 [predicted 4 times out of 5]
+D00332 [predicted 4 times out of 5]
+D00437 [predicted 4 times out of 5]
+D00542 [predicted 4 times out of 5]
+D00552 [predicted 4 times out of 5]
+D00618 [predicted 4 times out of 5]
+D00619 [predicted 5 times out of 5]
+D00629 [predicted 4 times out of 5]
+D00775 [predicted 4 times out of 5]
+D02356 [predicted 5 times out of 5]
+D05156 [predicted 4 times out of 5]
+D05453 [predicted 4 times out of 5]
+
+Query:
+hsa:6328 K04836 voltage-gated sodium channel type III alpha | (RefSeq) SCN3A, EIEE62, FFEVF4, NAC3, Nav1.3; sodium voltage-gated channel alpha subunit 3 (A)
+Interacts (potential) with the following drugs:
+D00294 [predicted 4 times out of 5]
+D00332 [predicted 4 times out of 5]
+D00545 [predicted 4 times out of 5]
+D00619 [predicted 4 times out of 5]
+D02356 [predicted 4 times out of 5]
+
+Query:
+hsa:6336 K04842 voltage-gated sodium channel type X alpha | (RefSeq) SCN10A, FEPS2, Nav1.8, PN3, SNS, hPN3; sodium voltage-gated channel alpha subunit 10 (A)
+Interacts (potential) with the following drugs:
+D00294 [predicted 4 times out of 5]
+D00332 [predicted 4 times out of 5]
+D00542 [predicted 4 times out of 5]
+D00619 [predicted 4 times out of 5]
+D02356 [predicted 4 times out of 5]
+

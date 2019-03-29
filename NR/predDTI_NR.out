@@ -1,0 +1,46 @@
+Query:
+hsa:2099 K08550 estrogen receptor alpha | (RefSeq) ESR1, ER, ESR, ESRA, ESTRR, Era, NR3A1; estrogen receptor 1 (A)
+Interacts (potential) with the following drugs:
+D00040 [predicted 3 times out of 5]
+D00067 [predicted 3 times out of 5]
+D00094 [predicted 3 times out of 5]
+D00105 [predicted 3 times out of 5]
+D00163 [predicted 3 times out of 5]
+D00188 [predicted 3 times out of 5]
+D00299 [predicted 3 times out of 5]
+D00312 [predicted 3 times out of 5]
+D00316 [predicted 3 times out of 5]
+D00348 [predicted 3 times out of 5]
+D00462 [predicted 3 times out of 5]
+D00577 [predicted 3 times out of 5]
+D00585 [predicted 3 times out of 5]
+D00898 [predicted 3 times out of 5]
+D00950 [predicted 3 times out of 5]
+D00951 [predicted 3 times out of 5]
+D00954 [predicted 3 times out of 5]
+D00956 [predicted 3 times out of 5]
+D01132 [predicted 4 times out of 5]
+D01161 [predicted 3 times out of 5]
+D01387 [predicted 3 times out of 5]
+D05341 [predicted 3 times out of 5]
+
+Query:
+hsa:2100 K08551 estrogen receptor beta | (RefSeq) ESR2, ER-BETA, ESR-BETA, ESRB, ESTRB, Erb, NR3A2; estrogen receptor 2 (A)
+Interacts (potential) with the following drugs:
+D00094 [predicted 3 times out of 5]
+D00348 [predicted 3 times out of 5]
+D00577 [predicted 3 times out of 5]
+D00898 [predicted 3 times out of 5]
+
+Query:
+hsa:5916 K08529 retinoic acid receptor gamma | (RefSeq) RARG, NR1B3, RARC; retinoic acid receptor gamma (A)
+Interacts (potential) with the following drugs:
+D00094 [predicted 5 times out of 5]
+D00316 [predicted 4 times out of 5]
+D00348 [predicted 5 times out of 5]
+D00506 [predicted 4 times out of 5]
+D00577 [predicted 4 times out of 5]
+D00730 [predicted 3 times out of 5]
+D00898 [predicted 5 times out of 5]
+D01132 [predicted 5 times out of 5]
+
